@@ -11,7 +11,7 @@ body:
       value: |
         <img align="right" height="100" alt="VidCrop" src="https://github.com/user-attachments/assets/06be6bd8-0ef3-424b-a9e5-a41d2c4c9157" /> 请尽可能详细地提供您的支持请求或反馈。
 
-        VidCrop 是一款将 4K 视频设置为动态桌面壁纸，支持 `MP4`、`MOV` 格式。只需将视频拖拽到应用界面，点击即可应用为动态壁纸。
+        VidCrop 是一款视频裁剪工具，帮助用户轻松裁剪视频文件。您可以手动选择视频的任意部分进行裁剪，程序内置视频播放器，方便在裁剪前后查看预览。
 
         ### 联系信息
 
