@@ -23,6 +23,8 @@
   </p>
 </div>
 
+![](./assets/VidCrop1.gif)
+
 ![](./assets/screenshots-1.jpg)
 
 VidCrop is a video cropping tool that helps you easily crop video files. You can manually select any part of the video to crop, with an integrated video player allowing you to preview before and after cropping.
